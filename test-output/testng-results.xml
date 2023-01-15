@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4496" started-at="2022-12-24T20:12:41 IST" finished-at="2022-12-24T20:12:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4496" started-at="2022-12-24T20:12:41 IST" finished-at="2022-12-24T20:12:45 IST">
+      <class name="restAPI.TC001_GET_Response">
+        <test-method status="PASS" signature="getWeatherDetails()[pri:0, instance:restAPI.TC001_GET_Response@27a8c74e]" name="getWeatherDetails" duration-ms="4424" started-at="2022-12-24T20:12:41 IST" finished-at="2022-12-24T20:12:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherDetails -->
+      </class> <!-- restAPI.TC001_GET_Response -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
